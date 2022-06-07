@@ -1,2 +1,2 @@
-# password_generator
+# password generator
 Генератор паролей на php и c#
